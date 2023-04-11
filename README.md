@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Firose Munna</h1>
 <h3 align="center">I like to learn constantly. I want to be a good person with technology. Being a Python Programmer, I'm Machine Learning addicted. Doing Bachelor of Science (B.Sc) in CSE (Major Artificial Intelligence) at Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh.</h3>
 
-- Hi, I am a [Student of BUBT](https://bubt.edu.bd/)
+- 🌱 I’m a [Student of BUBT](https://bubt.edu.bd/)
 
 - 🌱 I’m currently learning **Dart, Flutter, Machine Learning, NLP**
 
