@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firose Munna</h1>
-<h3 align="center">I like to learn constantly. I want to be a good person with technology.</h3>
+<h3 align="center">I like to learn constantly. I want to be a good person with technology. Being a Python Programmer, I'm Machine Learning addicted. Doing Bachelor of Science (B.Sc) in CSE (Major Artificial Intelligence) at Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firose-munna" alt="firose-munna" /></a> </p>
 
