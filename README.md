@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **c, c++, c#, Python, Java, WordPress**
 
-- 📫 How to reach me **admin@firosemunna.com**
+- 📫 How to reach me **munnafirose@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1scSyCB18VbZjK4ps8bEhiBuX0_HV87cf/view?usp=sharing](https://drive.google.com/file/d/1scSyCB18VbZjK4ps8bEhiBuX0_HV87cf/view?usp=sharing)
 
