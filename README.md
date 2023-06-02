@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **admin@firosemunna.com**
 
-- 📄 Know about my experiences [https://firosemunna.com/wp-content/uploads/2022/09/CVFirose-Munna.pdf](https://firosemunna.com/wp-content/uploads/2022/09/CVFirose-Munna.pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1scSyCB18VbZjK4ps8bEhiBuX0_HV87cf/view?usp=sharing](https://drive.google.com/file/d/1scSyCB18VbZjK4ps8bEhiBuX0_HV87cf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
