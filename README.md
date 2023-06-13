@@ -2,7 +2,7 @@
 <h3 align="center">Android and iOS Developer</h3>
 
 ![Android and iOS Developer](https://media.licdn.com/dms/image/D5616AQE24EWVwu2DrQ/profile-displaybackgroundimage-shrink_350_1400/0/1686643454801?e=1692230400&v=beta&t=qX19yErP2GuPc8ryaNaMa5sa_9TondtpGSp1DqZ4Dsk)
-<h5 align="center">I like to learn constantly. I want to be a good person with technology. Being a Python Programmer, I'm Machine Learning addicted. Doing Bachelor of Science (B.Sc) in CSE (Major Artificial Intelligence) at Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh.</h5>
+<h5 align="center">I like to learn constantly. I'm currently working on Mobile Development. As mobile app devleoper I use Flutter which is a framework for cross platform native app development and I really love it. I want to be a good person with technology. Also being a Python Programmer, I'm Machine Learning addicted. Doing Bachelor of Science (B.Sc) in CSE (Major Artificial Intelligence) at Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh.</h5>
 
 - 🌱 I’m a [Student of BUBT](https://bubt.edu.bd/)
 - 🔭 I’m currently working on Dart & Flutter 
