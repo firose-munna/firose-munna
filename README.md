@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firose Munna</h1>
-<h3 align="center">Android and iOS Developer</h3>
+<h3 align="center">Programmer</h3>
 
 ![Android and iOS Developer](https://github.com/firose-munna/firose-munna/assets/105736440/e2b03d42-b153-442a-9af0-ba7ee898c847)
 
