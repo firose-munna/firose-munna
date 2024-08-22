@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Firose Munna</h1>
 <h3 align="center">Programmer</h3>
 
-![Android and iOS Developer](https://github.com/firose-munna/firose-munna/assets/105736440/e2b03d42-b153-442a-9af0-ba7ee898c847)
+![Blue Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/a5374afd-af13-488e-ad23-28d8fa0276c5)
 
-<h5 align="center">I like to learn constantly. I'm currently working on Mobile Development. As mobile app devleoper I use Flutter which is a framework for cross platform native app development and I really love it. I want to be a good person with technology. Also being a Python Programmer, I'm Machine Learning addicted. Doing Bachelor of Science (B.Sc) in CSE (Major Artificial Intelligence) at Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh.</h5>
+<h5 align="center">I like to learn constantly. I'm currently working on Software Development. Completed Bachelor of Science (B.Sc) in CSE (Major Artificial Intelligence) at Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh.</h5>
 
 - 🌱 I’m a [Student of BUBT](https://bubt.edu.bd/)
-- 🔭 I’m currently working on Dart & Flutter 
-- 🌱 I’m currently learning Machine Learning & Deep Learning 
-- 🤔 I’m looking for help with Dart, Flutter, C, C++ 
-- 💬 Ask me about Dart, Flutter, C, C++, WordPress, Elementor 
+- 🔭 I’m currently working on NopCommerce, Blazor, Flutter and Wordpress. 
+- 💬 Ask me about NopCommerce, Blazor, Web API with Dot Net, Dart, Flutter, C, C++, WordPress, Elementor 
 - 📫 How to reach me: munnafirose@gmail.com 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AdfDyHX3xX8YF-TwF_lUKPICABzk_gtm/view?usp=sharing)
 
