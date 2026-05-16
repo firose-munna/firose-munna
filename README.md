@@ -6,8 +6,8 @@
 <h5 align="center">I like to learn constantly. I'm currently working on Software Development. Completed Bachelor of Science (B.Sc) in CSE (Major Artificial Intelligence) at Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh.</h5>
 
 - 🌱 I’m a [Student of BUBT](https://bubt.edu.bd/)
-- 🔭 I’m currently working on NopCommerce, Blazor, Flutter and Wordpress. 
-- 💬 Ask me about NopCommerce, Blazor, Web API with Dot Net, Dart, Flutter, C, C++, WordPress, Elementor 
+- 🔭 I’m currently working on NopCommerce, .Net Web API, Wordpress and WooCommerce. 
+- 💬 Ask me about NopCommerce, Web API with Dot Net, Dart, Flutter, C, C++, WordPress, Elementor, WooCommerce
 - 📫 How to reach me: munnafirose@gmail.com 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AdfDyHX3xX8YF-TwF_lUKPICABzk_gtm/view?usp=sharing)
 
